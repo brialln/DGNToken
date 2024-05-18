@@ -18,4 +18,4 @@ The contract can be deployed using Remix, an online IDE for Ethereum smart contr
 > Student Number: 8215752
 >> Student Email Address: 8215752@ntc.edu.ph
 >>> Student Name: Brian Allen Lusanta Mayor
->>>> School: Brian Allen Lusanta Mayor
+>>>> School: National Teachers College
