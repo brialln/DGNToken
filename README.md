@@ -7,6 +7,8 @@ Minting: Tokens can be minted by the owner of the contract.
 Transferring: Players can transfer tokens to other addresses.
 Redeeming: Tokens can be redeemed by the owner from player addresses.
 Burning: Any token holder can burn their own tokens.
+Check Balance: Players should be able to check their token balance anytime.
+
 These functionalities ensure flexibility and utility within the token ecosystem, empowering players to engage in transactions and interactions essential for their gaming experience.
 
 # Deployment
